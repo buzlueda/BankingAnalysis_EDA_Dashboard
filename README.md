@@ -71,4 +71,4 @@ Together, these tables enable **end-to-end EDA and visualization** for banking i
 ## 7️⃣ How to Use
 1. Clone this repository  
    ```bash
-   git clone https://github.com/your-username/banking-dashboard.git
+   git clone https://github.com/buzlueda/banking-dashboard.git
